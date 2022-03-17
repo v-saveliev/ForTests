@@ -1,2 +1,2 @@
-File -change- testing merging.
+File -change testing merging.
 and changed.

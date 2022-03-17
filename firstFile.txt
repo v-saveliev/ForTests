@@ -1,1 +1,1 @@
-File for testing merging.2
+File for testing merging.

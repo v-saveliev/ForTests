@@ -1,8 +1,0 @@
-<<<<<<< HEAD
-tost,
-=======
-tost
-eeef
-,
-1
->>>>>>> testFirstChange
